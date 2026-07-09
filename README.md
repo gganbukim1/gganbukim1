@@ -102,16 +102,14 @@ prove with a unit test, and *not* mistaking a config flag for physics.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gganbukim1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="stats"/>
-<img height="165" src="https://streak-stats.demolab.com?user=gganbukim1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="streak"/>
-
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gganbukim1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff" alt="langs"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gganbukim1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="trophies"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gganbukim1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff" alt="stats"/>
+<img height="170" src="https://streak-stats.demolab.com?user=gganbukim1&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gganbukim1&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff" width="98%" alt="activity"/>
 
 </div>
+
+<sub align="center">Most of my work lives in private repos — the contribution graph above reflects it once private contributions are shown.</sub>
 
 <br/>
 
