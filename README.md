@@ -43,8 +43,7 @@ Off-hours I write **smart contracts** and on-chain tooling.
 | project | what it does |
 |---|---|
 | **`snucrust`** `private` | 16-node PWR primary-loop source-term solver. Fe/Ni/Cr release → transport → precipitation → deposition, operator-split physics blocks with a thermodynamic release closure. |
-| **`snubic`** `private` | Fuel-rod CRUD growth: sub-nucleate boiling, wick-boiling concentration, radiolysis chemistry, boron/lithium precipitation on an axial × radial mesh. |
-| **`snubic-verified`** `private` | MATLAB → Python conversion audit of the above. 17 conversion defects found and fixed; the corrected solver reproduces the MATLAB reference **to machine precision** (2e-16). |
+| **`snubic`** `private` | Fuel-rod CRUD growth: sub-nucleate boiling, wick-boiling concentration, radiolysis chemistry, boron/lithium precipitation on an axial × radial mesh. (feat. Dr. Seo)|
 | **solubility surrogate** `private` | PHREEQC-trained LightGBM / GPR emulator for Fe–Ni–Cr solubility, cutting a 1000-sample Monte-Carlo UQ run from ~39 h to minutes. |
 
 **Things I care about:** mass conservation that actually closes, conversion fidelity you can
@@ -56,9 +55,7 @@ prove with a unit test, and *not* mistaking a config flag for physics.
 
 | project | what it does |
 |---|---|
-| **`dex-cpmm`** `private` | Constant-product AMM (Uniswap-V2 style) — pairs, router, fee accounting. |
 | **`dex-ve33`** `private` | ve(3,3) vote-escrow DEX: gauges, bribes, emission voting. |
-| **`token-bep20` · `token-multisender`** `private` | BEP-20 token + gas-efficient batch distribution. |
 | **on-chain trackers** `private` | Wallet / alpha tracking bots and campaign automation. |
 
 <br/>
